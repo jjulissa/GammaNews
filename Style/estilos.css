@@ -1,0 +1,85 @@
+* {
+    background-color: #E9967A;
+    color: #454545;
+    margin: 0;
+    padding: 0;
+    font-family: 'Philosopher', sans-serif;
+    
+}
+
+/* HEADER */ 
+
+header {
+    text-align: center;
+    margin: 30px auto;
+    font-size: 40px;
+}
+.heads {
+    background-color: #008080;
+    color: #f5d2b3;
+}
+
+
+/* MAIN */
+main {
+    border-left: dashed 2px;
+
+}
+main section img {
+    width: 400px;
+}
+
+main section {
+    /* padding: 100px; */
+    margin: 5rem 15rem 5rem 28rem;
+}
+main section div {
+    margin: 1rem;
+}
+
+main div h1 {
+    font-size: 40px;
+    color: #F4D599;
+}
+
+main div h3 {
+    font-size: 30px;
+}
+main div p {
+    font-size: 23px;
+}
+
+main img {
+    float: left;
+}
+
+main div {
+    display: inline-block;
+    width: 1000px;
+}
+
+
+
+/* FOOTER */
+footer {
+    text-align: center;
+    margin: 50px 0;
+    letter-spacing: 1px;
+    padding: 50px;
+}
+span {
+    background-color: #008080;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+.contact {
+    margin: 20px;
+}
+.temas a {
+    padding: 10px;
+}
+.foot {
+    padding: 10px;
+}
